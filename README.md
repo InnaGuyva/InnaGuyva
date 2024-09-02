@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**InnaGuyva/InnaGuyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
 
-Here are some ideas to get you started:
+    Greek
+    Russian
+    English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Tools:
+
+    SQL
+    Postman
+    Pairwise
+    Swagger
+    DevTools
+    GitHub
+    Jira
+    Trello
+    Discord
+    Microsoft Office
+    Microsoft Excel
+    Google Sheets
+    Google Docs
+    DB Browser (SQLite)
+
+How to reach me:
+
+    Telegram: @innaguyva
+    Email: innasamos1978@gmail.com
+    LinkedIn: www.linkedin.com/in/inna-guyva-b83172264
+
+My GitHub Stats:
+
+    Python: 100%
+
 - ⚡ Fun fact: ...
 -->
