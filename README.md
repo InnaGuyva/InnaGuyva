@@ -33,5 +33,4 @@ My GitHub Stats:
 
     Python: 100%
 
-- ⚡ Fun fact: ...
--->
+
